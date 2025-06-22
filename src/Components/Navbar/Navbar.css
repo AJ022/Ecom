@@ -12,10 +12,9 @@
 }
 
 .nav-logo p{
-    color:rgba(236, 12, 87, 0.959);
-    font-size: 25px;
+    color:rgba(0, 0, 0, 0.959);
+    font-size: 35px;
     font-weight: 600;
-    margin-bottom: -25px;
 }
 
 .nav-menu{
