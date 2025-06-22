@@ -10,7 +10,7 @@ const Footer = () => {
         <div className='footer'>
             <div className='footer-logo'>
             <img src={logo} alt="" height="50px"/>
-            <p>Future Fabric</p>
+            <p>Shopify</p>
             </div>
             <ul className='footer-links'>
                 <li>About</li>
